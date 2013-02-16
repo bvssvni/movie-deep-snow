@@ -4,5 +4,7 @@
 
 16.02.2013
 
-Create a pickup test animation.
+*Create another right of 'headless' using deform for arms and legs.
+*Create a pickup test animation.
+*Make the arms of 'headless' longer.
 *Rig the 'headless' figure.
