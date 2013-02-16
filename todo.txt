@@ -1,0 +1,8 @@
+* Completed on same day.
++ Completed on later day.
+- Decided against on later day.
+
+16.02.2013
+
+Create a pickup test animation.
+*Rig the 'headless' figure.
