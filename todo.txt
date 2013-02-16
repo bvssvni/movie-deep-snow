@@ -4,6 +4,9 @@
 
 16.02.2013
 
+*Animation of pickup with textured version.
+*Rig of 'headless' that is textured.
+*Animation of pickup with deformed version.
 *Create another right of 'headless' using deform for arms and legs.
 *Create a pickup test animation.
 *Make the arms of 'headless' longer.
